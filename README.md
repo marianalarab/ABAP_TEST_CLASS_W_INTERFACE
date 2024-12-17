@@ -1,5 +1,4 @@
-# ABAP_TEST_CLASS_W_INTERFACE
-Abap Test class using interface to simulate DB access
+# Abap Test class using interface to simulate DB access
 
 <p>This program was developed in Sep/2023<br />SAP version: ECC 6.0<br />HANA Database</p>
 <ul>
